@@ -27,3 +27,6 @@ Five phases are considered in a genetic algorithm.
 * Selection
 * Crossover
 * Mutation
+### Initialize population
+# Prepared by
+Chaza Alkis `13011908` and Derya Akcakaya `13011053`

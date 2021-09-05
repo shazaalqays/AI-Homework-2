@@ -1,4 +1,4 @@
-# AI-Homework-2
+# AI labyrinth of N * N
 In a labyrinth of N * N, we have to finde the shortest path combining starting point which is the upper left  and end point the lower right, using genetic algorithm.
 # Getting started
 In order to work with labyrinthwe will use numpy library to work with matrices.
@@ -224,4 +224,4 @@ def findPath(Genes, GenerationNum):
 # Conclusion
 Genetic algorithm is a fast and optimal solution for such a problem.
 # Prepared by
-Chaza Alkis `13011908` and Derya Akcakaya `13011053`
+Chaza Alkis
